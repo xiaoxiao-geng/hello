@@ -1,5 +1,5 @@
-1.texta
-2.textb
+1.texa
+2.texb
 3.textc
 4.textd
 5.texte
